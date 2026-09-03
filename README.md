@@ -54,11 +54,14 @@ const tasarik = {
 
 <!-- PROFILE RULE: Keep a maximum of 4 public repository cards in this section. -->
 <div align="center">
+  <a href="https://github.com/TasarikOfficial/Polyglot-Playground">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=Polyglot-Playground&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="Polyglot Playground repository" />
+  </a>
+  <a href="https://github.com/TasarikOfficial/MiniWeb-Lab">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=MiniWeb-Lab&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="MiniWeb Lab repository" />
+  </a>
   <a href="https://github.com/TasarikOfficial/TinyyPulsee">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=TinyyPulsee&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="TinyyPulsee repository" />
-  </a>
-  <a href="https://github.com/TasarikOfficial/TasarikOfficial">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=TasarikOfficial&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="Profile repository" />
   </a>
   <br /><br />
   <a href="https://github.com/TasarikOfficial?tab=repositories">
