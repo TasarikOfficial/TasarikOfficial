@@ -1,0 +1,22 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" rx="24" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="428" rx="23" fill="none" stroke="#30363d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <circle cx="34" cy="32" r="6" fill="#ff5f56"/><circle cx="56" cy="32" r="6" fill="#ffbd2e"/><circle cx="78" cy="32" r="6" fill="#27c93f"/>
+    <text x="100" y="38" font-size="18" fill="#8b949e">TasarikOfficial — profile</text>
+    <text x="70" y="118" font-size="18" fill="#39ff88">$ ./launch-tasarik</text>
+    <text x="70" y="178" font-size="66" font-weight="700" letter-spacing="8" fill="#f0f6fc">TASARIK</text>
+    <text x="72" y="224" font-size="22" fill="#8b949e">Think. Design. Build.</text>
+    <text x="72" y="275" font-size="18" fill="#39ff88">01010100 01000001 01010011 01000001 01010010 01001001 01001011</text>
+    <text x="72" y="330" font-size="20" fill="#f0f6fc">Ömer  ·  Software Engineer × Designer</text>
+    <text x="72" y="370" font-size="17" fill="#8b949e">Building products at the intersection of software, AI and design</text>
+    <rect x="72" y="392" width="12" height="23" rx="2" fill="#39ff88">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="1080" cy="110" r="45" fill="none" stroke="#39ff88" stroke-width="2" opacity=".45">
+      <animate attributeName="r" values="42;54;42" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".2;.65;.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="110" r="15" fill="#39ff88" opacity=".85"/>
+  </g>
+</svg>
