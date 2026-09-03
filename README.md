@@ -42,19 +42,28 @@ const tasarik = {
 </tr>
 </table>
 
-<!-- PROFILE RULE: Show a maximum of 4 featured repositories above this button. -->
-<div align="center">
-  <a href="https://github.com/TasarikOfficial?tab=repositories">
-    <img src="https://img.shields.io/badge/Diğer_tüm_repolara_bak_→-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Diğer tüm repolara bak" />
-  </a>
-</div>
-
 ## My toolkit
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,figma,supabase,mysql,git,github,vscode&perline=7&theme=dark)](https://skillicons.dev)
 
+</div>
+
+## Öne çıkan repolarım
+
+<!-- PROFILE RULE: Keep a maximum of 4 public repository cards in this section. -->
+<div align="center">
+  <a href="https://github.com/TasarikOfficial/TinyyPulsee">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=TinyyPulsee&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="TinyyPulsee repository" />
+  </a>
+  <a href="https://github.com/TasarikOfficial/TasarikOfficial">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=TasarikOfficial&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="Profile repository" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/TasarikOfficial?tab=repositories">
+    <img src="https://img.shields.io/badge/Diğer_tüm_repolara_bak_→-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Diğer tüm repolara bak" />
+  </a>
 </div>
 
 ## GitHub signal
