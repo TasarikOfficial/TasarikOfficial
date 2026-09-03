@@ -71,6 +71,55 @@ const tasarik = {
   </picture>
 </div>
 
+## Ömer’in önerdiği paketler
+
+<div align="center">
+  <sub>Modern web projelerinde tekrar tekrar kullandığım sade ve güçlü araçlar.</sub>
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>▲ Next.js</h3>
+<p>Üretime hazır React uygulamaları için güçlü full-stack temel.</p>
+<a href="https://www.npmjs.com/package/next"><img src="https://img.shields.io/npm/v/next?style=flat-square&color=0A84FF&label=npm" /></a>
+</td>
+<td width="33%" valign="top">
+<h3>◈ Tailwind CSS</h3>
+<p>Hızlı, tutarlı ve responsive arayüzler oluşturmak için.</p>
+<a href="https://www.npmjs.com/package/tailwindcss"><img src="https://img.shields.io/npm/v/tailwindcss?style=flat-square&color=06B6D4&label=npm" /></a>
+</td>
+<td width="33%" valign="top">
+<h3>◇ shadcn/ui</h3>
+<p>Kontrolü sende tutan modern ve özelleştirilebilir bileşenler.</p>
+<a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/docs-open-18181B?style=flat-square" /></a>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>⌁ Supabase</h3>
+<p>Veritabanı, kimlik doğrulama ve depolamayı hızla kurmak için.</p>
+<a href="https://www.npmjs.com/package/@supabase/supabase-js"><img src="https://img.shields.io/npm/v/@supabase/supabase-js?style=flat-square&color=3ECF8E&label=npm" /></a>
+</td>
+<td width="33%" valign="top">
+<h3>✓ Zod</h3>
+<p>TypeScript verilerini güvenli ve anlaşılır biçimde doğrulamak için.</p>
+<a href="https://www.npmjs.com/package/zod"><img src="https://img.shields.io/npm/v/zod?style=flat-square&color=3068B7&label=npm" /></a>
+</td>
+<td width="33%" valign="top">
+<h3>✦ Lucide</h3>
+<p>Temiz, hafif ve tasarım dostu ikon seti.</p>
+<a href="https://www.npmjs.com/package/lucide-react"><img src="https://img.shields.io/npm/v/lucide-react?style=flat-square&color=F56565&label=npm" /></a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <code>npm i next tailwindcss @supabase/supabase-js zod lucide-react</code>
+</div>
+
 ---
 
 <div align="center">
