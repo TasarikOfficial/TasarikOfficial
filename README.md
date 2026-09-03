@@ -1,78 +1,52 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="TASARIK animated hero" />
-</p>
-
-## `~/ whoami`
-
-Hi, I'm **Ömer** — a software engineer & designer building products at the intersection of **software, AI and design**.
-
-Currently building **TasariKAI**.
-
-```txt
-> artificial intelligence
-> ui / ux
-> web development
-> creative coding
-> robotics
-> open source
-```
-
----
-
-## `~/ toolbox`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,supabase,github,figma,blender" alt="toolbox" />
-</p>
-
----
+## Open-source maintainer
 
 <p align="center">
-  <img src="./assets/skill-radar.svg" width="100%" alt="Animated skill radar" />
+  <img src="https://www.gitskins.com/api/section/hero?username=tasarikofficial&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256490467%3Fv%3D4" alt="tasarikofficial hero visual" />
 </p>
 
----
+**Ömer - Tasarik** · Open-source maintainer
 
-## `~/ contribution-calendar`
+## How I contribute
+
+> Ömer Yazılımcı is a graphic designer and Vibe Coder; he professionally uses applications such as Codex, Claude, and Figma 
+
+- 👥 **0** followers · **1** following
+
+**Open to:** thoughtful collaboration and useful open source
+
+## Projects I care for
+
+- [TasarikOfficial](https://github.com/TasarikOfficial/TasarikOfficial) — open source · 0 stars
+- [TinyyPulsee](https://github.com/TasarikOfficial/TinyyPulsee) — HTML · 0 stars
+
+## Maintainer toolkit
+
+<p><code>tasarikofficial@github:~$ toolbox --list</code></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasarikOfficial&bg_color=0d1117&color=8b949e&line=39ff88&point=f0f6fc&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://www.gitskins.com/api/section/stack?username=tasarikofficial&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256490467%3Fv%3D4&style=terminal" alt="tasarikofficial stack visual" />
 </p>
 
----
-
-## `~/ the-numbers`
+## Community notes
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TasarikOfficial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=39ff88" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasarikOfficial&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" alt="Top languages" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=tasarikofficial&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256490467%3Fv%3D4" alt="tasarikofficial highlights visual" />
 </p>
 
----
+<p><b>Ömer - Tasarik</b> is shipping 2 public projects with 0 stars of proof.</p>
 
-## `~/ currently-building`
-
-### TASARIKAI
-
-> **Düşün, Sor, Üret.**
-
-AI-powered design platform focused on turning ideas into polished digital products.
-
-**tasarik.com**
-
----
-
-## `~/ selected-work`
-
-| Project | What it is |
-|---|---|
-| **TasariKAI** | AI-powered design platform |
-| **Mini Bot** | Desktop AI companion / robotics experiment |
-| **TinyPulse** | Small experimental web project |
-
----
+## Contribution trail
 
 <p align="center">
-  <code>TASARIK © 2026</code><br><br>
-  <sub>Build things people want to use.</sub>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tasarikofficial&theme=zen" alt="tasarikofficial contribution activity" />
 </p>
+
+## Contribute together
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=tasarikofficial&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256490467%3Fv%3D4" alt="tasarikofficial social visual" />
+</p>
+
+<a href="https://github.com/tasarikofficial">GitHub</a>
+
+<p align="center"><sub>Ömer - Tasarik · Maintainer profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
