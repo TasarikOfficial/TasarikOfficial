@@ -1,0 +1,19 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="420" rx="22" fill="#0d1117"/><rect x="1" y="1" width="1198" height="418" rx="21" fill="none" stroke="#30363d"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+<text x="42" y="48" fill="#f0f6fc" font-size="22">~/ skill-radar</text><text x="42" y="78" fill="#8b949e" font-size="14">live capability map</text>
+<g transform="translate(330 220)" fill="none" stroke="#30363d">
+<polygon points="0,-125 108,-62 108,62 0,125 -108,62 -108,-62"/>
+<polygon points="0,-90 78,-45 78,45 0,90 -78,45 -78,-45"/>
+<polygon points="0,-55 48,-28 48,28 0,55 -48,28 -48,-28"/>
+<line x1="0" y1="0" x2="0" y2="-125"/><line x1="0" y1="0" x2="108" y2="-62"/><line x1="0" y1="0" x2="108" y2="62"/><line x1="0" y1="0" x2="0" y2="125"/><line x1="0" y1="0" x2="-108" y2="62"/><line x1="0" y1="0" x2="-108" y2="-62"/>
+<polygon points="0,-110 92,-53 86,50 0,86 -74,43 -86,-50" fill="#39ff88" fill-opacity=".10" stroke="#39ff88" stroke-width="2"><animate attributeName="fill-opacity" values=".08;.18;.08" dur="4s" repeatCount="indefinite"/></polygon>
+</g>
+<g fill="#8b949e" font-size="14"><text x="292" y="74">Software</text><text x="448" y="162">AI</text><text x="444" y="302">UI / UX</text><text x="288" y="382">Creative</text><text x="148" y="302">3D</text><text x="132" y="162">Robotics</text></g>
+<g transform="translate(620 110)" font-size="16">
+<text y="0" fill="#f0f6fc">Programming Activity</text>
+<text y="48" fill="#8b949e">TypeScript</text><rect x="150" y="35" width="330" height="12" rx="6" fill="#161b22"/><rect x="150" y="35" width="285" height="12" rx="6" fill="#39ff88"><animate attributeName="width" from="0" to="285" dur="1.2s" fill="freeze"/></rect>
+<text y="98" fill="#8b949e">JavaScript</text><rect x="150" y="85" width="330" height="12" rx="6" fill="#161b22"/><rect x="150" y="85" width="248" height="12" rx="6" fill="#39ff88"><animate attributeName="width" from="0" to="248" dur="1.4s" fill="freeze"/></rect>
+<text y="148" fill="#8b949e">Design</text><rect x="150" y="135" width="330" height="12" rx="6" fill="#161b22"/><rect x="150" y="135" width="270" height="12" rx="6" fill="#39ff88"><animate attributeName="width" from="0" to="270" dur="1.6s" fill="freeze"/></rect>
+<text y="198" fill="#8b949e">AI</text><rect x="150" y="185" width="330" height="12" rx="6" fill="#161b22"/><rect x="150" y="185" width="300" height="12" rx="6" fill="#39ff88"><animate attributeName="width" from="0" to="300" dur="1.8s" fill="freeze"/></rect>
+</g></g></svg>
