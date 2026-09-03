@@ -63,6 +63,9 @@ const tasarik = {
   <a href="https://github.com/TasarikOfficial/TinyyPulsee">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=TinyyPulsee&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="TinyyPulsee repository" />
   </a>
+  <a href="https://github.com/TasarikOfficial/Veyro">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TasarikOfficial&repo=Veyro&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=64D2FF&text_color=A1A1AA" alt="Veyro repository" />
+  </a>
   <br /><br />
   <a href="https://github.com/TasarikOfficial?tab=repositories">
     <img src="https://img.shields.io/badge/Diğer_tüm_repolara_bak_→-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Diğer tüm repolara bak" />
