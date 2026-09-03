@@ -42,6 +42,13 @@ const tasarik = {
 </tr>
 </table>
 
+<!-- PROFILE RULE: Show a maximum of 4 featured repositories above this button. -->
+<div align="center">
+  <a href="https://github.com/TasarikOfficial?tab=repositories">
+    <img src="https://img.shields.io/badge/Diğer_tüm_repolara_bak_→-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Diğer tüm repolara bak" />
+  </a>
+</div>
+
 ## My toolkit
 
 <div align="center">
