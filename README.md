@@ -120,6 +120,15 @@ const tasarik = {
   <code>npm i next tailwindcss @supabase/supabase-js zod lucide-react</code>
 </div>
 
+
+## My digital sidekick
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TasarikOfficial/TasarikOfficial/main/assets/tasarik-bot.svg" width="100%" alt="Animated Tasarik Bot" />
+  <br /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=0A84FF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+interfaces...;Teaching+pixels+to+behave...;Building+the+next+Tasarik+product...;Coffee+not+found.+Shipping+anyway." alt="Animated developer messages" />
+</div>
+
 ---
 
 <div align="center">
